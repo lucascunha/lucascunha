@@ -4,8 +4,8 @@
  </em></p>
  
 <p align="left">
-  Languages and Skills: <strong>Java, Springboot, Shell Script,
-JMS,  XML, JSON e ISO8583. </strong>
+  Languages and Skills: <strong>Java, Mobile, Spring Boot, Shell Script,
+XML, JSON, JMS e ISO-8583. </strong>
 </p>
 
 <p align="left">
