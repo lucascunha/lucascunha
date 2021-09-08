@@ -1,5 +1,5 @@
 ### Hello! I'm Lucas (:
-<img align='right' src="https://github.com/lucascunha/lucascunha/blob/main/lucas-funko.png" width="230">
+<img align='right' src="https://github.com/lucascunha/lucascunha/blob/main/lucas-funko.png" width="115">
 <p><em>I am a software developer passionate about learning and ever trying to understand how all the things works.</a>
  </em></p>
  
