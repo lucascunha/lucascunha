@@ -2,10 +2,14 @@
 <img align='right' src="https://github.com/lucascunha/lucascunha/blob/main/lucas-funko.png" width="115">
 <p><em>I am a software developer passionate about learning and ever trying to understand how all the things works.</a>
  </em></p>
- 
+
 <p align="left">
   Languages and Skills: <strong>Java, Mobile, Spring Boot, Shell Script,
 XML, JSON, JMS e ISO-8583. </strong>
+</p>
+
+<p align="left">
+  I am learning: <strong>Python (for Data Science purposes) and the frontend pack (HTML, CSS, Javascript). </strong>
 </p>
 
 <p align="left">
@@ -25,8 +29,14 @@ Find me:
 
 
 
-<div>
-  <a href="https://github.com/lucascunha"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<center>
+  <table>
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascunha&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucascunha&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>  
 
 <!--
 **lucascunha/lucascunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
