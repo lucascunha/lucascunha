@@ -1,4 +1,4 @@
-Translate to [English](README.md)
+Traduzir para o [Portugês](README.pt-br.md)
 
 ### Hello! I'm Lucas (:
 
