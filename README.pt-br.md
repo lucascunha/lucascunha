@@ -1,17 +1,17 @@
-Translate to [English](README.md)
+Traduzir para o [Portugês](README.pt-br.md)
 
-### Hello! I'm Lucas (:
+### Olá! Eu sou o Lucas (:
 
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
-<p>A software developer from Brasil. I am passionate about code, science, technology, and ever trying to understand how things work.</p>
+<p>Sou um programador apaixonado por código, ciência, tecnologia e sempre em busca de entender como as coisas funcionam.</p>
 
-<p>Nowadays I have contributed with encryption and communication systems in the market of means of payment and banking automation.</p>
+<p>Atualmente eu tenho contribuído com sistemas de comunicação e criptografia na Tecban, que atua no mercado de meios de pagamento e automação bancária.</p>
 
-<p>Always with my headphones on, whenever possible I'm listening to music or podcasts.</p>
+<p>O tempo todo com meus fones de ouvido, escuto música ou podcast sempre que possível.</p>
 
 ---
 
-### :mailbox_with_no_mail: Find me:
+### :mailbox_with_no_mail: Onde me achar:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascunha/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LcasCunha)
@@ -19,7 +19,7 @@ Translate to [English](README.md)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Ferramentas e Linguagens:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
