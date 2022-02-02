@@ -1,8 +1,8 @@
-Traduzir para o [Portugês](README.pt-br.md)
-
+Tradução para o [Portugês](README.pt-br.md)
+ 
 ### Hello! I'm Lucas (:
 
-<img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
+<img align='left' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
 <p>A software developer from Brasil. I am passionate about code, science, technology, and ever trying to understand how things work.</p>
 
 <p>Nowadays I have contributed with encryption and communication systems in the market of means of payment and banking automation.</p>
@@ -11,13 +11,7 @@ Traduzir para o [Portugês](README.pt-br.md)
 
 ---
 
-### :mailbox_with_no_mail: Find me:
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascunha/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LcasCunha)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucas-cunha)
-
----
+<img align= right src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" height="100"/>
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -47,6 +41,14 @@ Traduzir para o [Portugês](README.pt-br.md)
   </table>
 </center>  
 
+
+---
+
+### :mailbox_with_no_mail: Find me:
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascunha/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LcasCunha)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucas-cunha)
 
 <!--
 **lucascunha/lucascunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
