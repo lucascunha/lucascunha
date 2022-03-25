@@ -7,7 +7,11 @@ Translate to [English](README.md)
 
 <p>Atualmente eu tenho contribuído com sistemas de comunicação e criptografia na Tecban, que atua no mercado de meios de pagamento e automação bancária.</p>
 
+<p>Ultimamente tenho estudado javascript e alguns de seus frameworks.</p>
+
 <p>O tempo todo com meus fones de ouvido, escuto música ou podcast sempre que possível.</p>
+
+<p>No meu tempo livre eu gosto de ler, jogar vídeo games, resolver desafios e passar tempo com meus amigos e minha família.</p>
 
 ---
 
