@@ -1,17 +1,17 @@
-Tradução para o [Portugês](README.pt-br.md)
+Tradução para o [Português](README.pt-br.md)
  
 ### Hello! I'm Lucas (:
 
 <img align='left' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
-<p>A software developer from Brazil. I am passionate about code, science, technology, and ever trying to understand how things work.</p>
+<p>A software developer from Brazil, I am passionate about coding, science, and technology, and am always eager to understand how things work.</p>
 
-<p>Nowadays I have contributed with encryption and communication systems in the market of means of payment and banking automation.</p>
+<p>Currently, I have contributed to encryption and communication systems in the payment and banking automation sectors.</p>
 
-<p>Lately i've been studying javascript and some of its frameworks.</p>
+<p>Lately, I've been studying JavaScript and some of its frameworks.</p>
 
-<p>Always with my headphones on, whenever possible I'm listening to music or podcasts.</p>
+<p>Always with my headphones on, I enjoy listening to music or podcasts whenever possible.</p>
 
-<p>In my free time, I like reading, playing video games, solving puzzles, swimming and being with my friends and family.</p>
+<p>In my free time, I like reading, playing video games, solving puzzles, swimming, and spending time with friends and family.</p>
 
 ---
 
