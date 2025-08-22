@@ -3,15 +3,16 @@ Tradução para o [Português](README.pt-br.md)
 ### Hello! I'm Lucas (:
 
 <img align='left' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150"/>
-<p>A software developer from Brazil, I am passionate about coding, science, and technology, and am always eager to understand how things work.</p>
 
-<p>Currently, I have contributed to encryption and communication systems in the payment and banking automation sectors.</p>
+**Java Developer** from Brazil, specializing in **Spring Boot** and enterprise applications.
 
-<p>Lately, I've been studying JavaScript and some of its frameworks.</p>
+I work with **encryption and communication systems** in the payment and banking sectors, building secure and scalable backend solutions.
 
-<p>Always with my headphones on, I enjoy listening to music or podcasts whenever possible.</p>
+My GitHub showcases my learning journey with **JavaScript** and frontend technologies, while my professional expertise lies in the **Java ecosystem**.
 
-<p>In my free time, I like reading, playing video games, solving puzzles, swimming, and spending time with friends and family.</p>
+Always with my headphones on, I enjoy listening to music or podcasts whenever possible.
+
+These days, most of my free time is spent with my 2-year-old daughter playing, talking, and discovering the world through her eyes. While I set out to teach her, I find myself learning just as much from our daily adventures together.
 
 ---
 
@@ -22,15 +23,20 @@ Tradução para o [Português](README.pt-br.md)
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/apache_activemq/apache_activemq-icon.svg" title="ActiveMQ" alt="ActiveMQ" width="40" height="40"/>&nbsp;
+<img src="https://daniel.arneam.com/assets/img/blog/mq/ibm-mq.png" title="IBM MQ" alt="IBM MQ" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain-wordmark.svg" title="TDD/JUnit" alt="TDD/JUnit" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
 </p>
 
@@ -52,6 +58,7 @@ Tradução para o [Português](README.pt-br.md)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascunha/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LcasCunha)
+ALTERAR PARA O LOGO NOVO DO X 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucas-cunha)
 
 <!--
