@@ -58,7 +58,6 @@ These days, most of my free time is spent with my 2-year-old daughter playing, t
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascunha/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LcasCunha)
-ALTERAR PARA O LOGO NOVO DO X 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucas-cunha)
 
 <!--
